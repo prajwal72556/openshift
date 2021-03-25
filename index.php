@@ -1,3 +1,3 @@
-<?php>
-print"welcome to openshift";
+<?php
+print "welcome to openshift";
 ?>
